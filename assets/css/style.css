@@ -86,7 +86,8 @@ body {
 }
 
 .btn-container:hover {
-    box-shadow: 0 0 10px 0 var(--neon-green);
+    -webkit-box-shadow: 0px 0px 50px 10px #52ffa8;
+    box-shadow: 0px 0px 50px 10px #52ffa8;
 }
 
 .btn-container img {
