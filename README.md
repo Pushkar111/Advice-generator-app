@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/Pushkar111/Advice-generator-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Advice Generator](https://true-advice.netlify.app/)
 
 ## My process
 
